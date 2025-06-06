@@ -18,3 +18,12 @@ A web-based portal for managing student placements.
 - MySQL (for database)
 
 ## 📂 Project Structure
+
+📁 student-placement-portal/
+├── 📁 php/
+│   └── config.php
+├── index.html
+├── dashboard.html
+├── login.html
+├── style.css
+└── README.md
